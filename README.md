@@ -769,19 +769,19 @@ Contributions are welcome. Before submitting a PR:
 ### 🛠️ Technology Stack
 
 **☁️ Cloud & Platforms**  
-GCP, AWS
+![GCP](https://img.shields.io/badge/GCP-Expert-ff9900?style=flat&logo=googlecloud&logoColor=white&labelColor=4285F4) ![AWS](https://img.shields.io/badge/AWS-Expert-ff9900?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E)
 
 **⚙️ Platform & DevOps**  
-Kubernetes, Docker, Terraform, Helm, Ansible, CI/CD
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-007ACC?style=flat&logo=kubernetes&logoColor=white&labelColor=326CE5) ![Docker](https://img.shields.io/badge/Docker-Expert-007ACC?style=flat&logo=docker&logoColor=white&labelColor=2496ED) ![Terraform](https://img.shields.io/badge/Terraform-Advanced-8A2BE2?style=flat&logo=terraform&logoColor=white&labelColor=7B42BC) ![Helm](https://img.shields.io/badge/Helm-Advanced-000080?style=flat&logo=helm&logoColor=white&labelColor=0F1689) ![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=000000) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Expert-32CD32?style=flat&labelColor=555555)
 
 **🔐 Security & Ops**  
-IAM, Networking, Monitoring, Secrets Management
+![IAM](https://img.shields.io/badge/IAM-Expert-ff9900?style=flat&labelColor=555555) ![Networking](https://img.shields.io/badge/Networking-Advanced-007ACC?style=flat&labelColor=555555) ![Monitoring & Logging](https://img.shields.io/badge/Monitoring%20%26%20Logging-Expert-32CD32?style=flat&labelColor=d35400) ![Secrets Mgmt](https://img.shields.io/badge/Secrets%20Mgmt-Advanced-FFD700?style=flat&labelColor=555555)
 
 **🧑‍💻 Programming**  
-Python, Bash, YAML
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white&labelColor=3572A5) ![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=4EAA25) ![YAML](https://img.shields.io/badge/YAML-Advanced-CB171E?style=flat&labelColor=CB171E)
 
 **💾 Database**  
-SQL, MongoDB
+![SQL](https://img.shields.io/badge/SQL-Advanced-CC292B?style=flat&labelColor=555555) ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
 
 ## Connect With Me
 
